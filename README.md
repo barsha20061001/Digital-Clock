@@ -21,6 +21,11 @@ JavaScript – to dynamically update the time every second
 
 4. Lightweight and fully client-side (no dependencies)
 
+# 📷 Preview
+
+   <img width="1571" height="703" alt="Screenshot 2025-07-15 014151" src="https://github.com/user-attachments/assets/c12cd33e-d1b4-4fe7-9a1c-932b60b28475" />
+
+
 #  📂 Project Structure
 
 /digital-clock
