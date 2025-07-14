@@ -6,10 +6,10 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript. It 
 
 # 🚀 Features
  
-Live real-time clock
+1. Live real-time clock
 
-12-hour or 24-hour format (optional toggle)
+2. 12-hour or 24-hour format (optional toggle)
 
-Clean and minimal UI
+3. Clean and minimal UI
 
-Lightweight and fully client-side (no dependencies)
+4. Lightweight and fully client-side (no dependencies)
