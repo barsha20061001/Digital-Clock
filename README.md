@@ -4,6 +4,13 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript. It 
 # Project link
 [Click Here](https://stackblitz.com/edit/stackblitz-starters-vpyjvxaw?file=clock.js)
 
+# 🛠️ Technologies Used
+HTML – for the basic structure
+
+CSS – for styling the clock interface
+
+JavaScript – to dynamically update the time every second
+
 # 🚀 Features
  
 1. Live real-time clock
@@ -13,3 +20,5 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript. It 
 3. Clean and minimal UI
 
 4. Lightweight and fully client-side (no dependencies)
+
+   
