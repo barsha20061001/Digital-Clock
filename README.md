@@ -3,3 +3,13 @@ A simple and responsive digital clock built using HTML, CSS, and JavaScript. It 
 
 # Project link
 [Click Here](https://stackblitz.com/edit/stackblitz-starters-vpyjvxaw?file=clock.js)
+
+# 🚀 Features
+ 
+Live real-time clock
+
+12-hour or 24-hour format (optional toggle)
+
+Clean and minimal UI
+
+Lightweight and fully client-side (no dependencies)
