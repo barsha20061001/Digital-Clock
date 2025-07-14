@@ -27,6 +27,8 @@ JavaScript – to dynamically update the time every second
 
 ├── index.html      # Main HTML file
 
+├── style.css       # Styling for the clock
+
 └── script.js       # JavaScript logic for updating time
 
 
