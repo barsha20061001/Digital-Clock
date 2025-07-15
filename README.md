@@ -15,14 +15,20 @@ CSS – for styling the clock interface
 JavaScript – to dynamically update the time every second
 
 # 🚀 Features
- 
-1. Live real-time clock
 
-2. 12-hour or 24-hour format (optional toggle)
+🕒 Real-time digital clock
 
-3. Clean and minimal UI
+⏰ Supports 12-hour and 24-hour format (customizable)
 
-4. Lightweight and fully client-side (no dependencies)
+🔄 Auto-updates every second
+
+🎨 Clean and modern UI
+
+📱 Fully responsive — works on all screen sizes
+
+💡 Built using pure HTML, CSS, and JavaScript
+
+🧠 Great for beginners learning time and DOM manipulation
 
 # 📷 Preview
 
