@@ -7,12 +7,12 @@
 # 💻 Project link
 [Click Here](https://stackblitz.com/edit/stackblitz-starters-vpyjvxaw?file=clock.js)
 
-# 🛠️ Technologies Used
-HTML – for the basic structure
+# 🛠️ Tech Stack
+💻 HTML – for the basic structure
 
-CSS – for styling the clock interface
+🎨 CSS – for styling the clock interface
 
-JavaScript – to dynamically update the time every second
+⚙️ JavaScript – to dynamically update the time every second
 
 # 🚀 Features
 
@@ -30,7 +30,7 @@ JavaScript – to dynamically update the time every second
 
 🧠 Great for beginners learning time and DOM manipulation
 
-# 📷 Preview
+# 📸 Preview
 
    <img width="1571" height="703" alt="Screenshot 2025-07-15 014151" src="https://github.com/user-attachments/assets/c12cd33e-d1b4-4fe7-9a1c-932b60b28475" />
 
@@ -44,5 +44,21 @@ JavaScript – to dynamically update the time every second
 ├── style.css       # Styling for the clock
 
 └── script.js       # JavaScript logic for updating time
+
+# 🧑‍💻 Author
+Made with ❤️ by Barsha Mondal
+
+# 🤝 Contributions
+Contributions are always welcome! If you want to help improve this project, feel free to:
+
+🐛 Report bugs or issues
+
+💡 Suggest new features or improvements
+
+📝 Fix typos or improve documentation
+
+👩‍💻 Submit pull requests with code enhancements
+
+Thank you for helping make this project better! 🙌
 
 
